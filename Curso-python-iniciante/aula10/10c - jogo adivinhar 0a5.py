@@ -10,6 +10,6 @@ sleep(3) #pensa por 3segundos
 if n == nc:
     print('Valeu! Vc conseguiu vencer')
 else:
-    print('Eu ganhei otário, pensei em {} e nao {}'.format(nc, n))
+    print('Eu ganhei! pensei em {} e nao {}'.format(nc, n))
 
 
