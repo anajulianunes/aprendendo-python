@@ -2,6 +2,7 @@
 # Conforme pedido vamos iniciar mostrando meu nome completo e o nome da minha loja
 
 print('-=-'*20)
+\33[1:35:40m
 print("Olá! Bem-vindo à loja da Ana Julia Nunes de Araujo")
 print('-=-'*20)
 
