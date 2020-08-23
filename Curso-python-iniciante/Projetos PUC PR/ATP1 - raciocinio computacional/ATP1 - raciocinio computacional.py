@@ -2,8 +2,7 @@
 # Conforme pedido vamos iniciar mostrando meu nome completo e o nome da minha loja
 
 print('-=-'*20)
-\33[1:35:40m
-print("Olá! Bem-vindo à loja da Ana Julia Nunes de Araujo")
+print("\33[1:35:40mOlá! Bem-vindo à loja da Ana Julia Nunes de Araujo\033[m")
 print('-=-'*20)
 
 # Em seguida pedirei os dados do cliente para iniciar a análise de crédito
